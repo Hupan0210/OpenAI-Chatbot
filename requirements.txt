@@ -1,0 +1,9 @@
+# requirements.txt
+# 这里填写你的Python依赖包
+Flask
+openai
+python-dotenv
+loguru
+requests
+pandas
+pytest
