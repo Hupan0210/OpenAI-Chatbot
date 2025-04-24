@@ -39,6 +39,7 @@ OpenAI-Chatbot/
 
 欢迎提交 Issue 和 Pull Request，也欢迎加入社区讨论！
 
+
 ## 开源协议
 
 本项目采用 MIT License 开源。
@@ -48,3 +49,17 @@ OpenAI-Chatbot/
 - 作者：Hupan0210
 - 邮箱：Hupan0210@gmail.com
 - GitHub: [https://github.com/Hupan0210/OpenAI-Chatbot](https://github.com/Hupan0210/OpenAI-Chatbot)
+
+## 致谢
+
+本项目由 [VTEXS](https://www.vtexs.com) 免费VPS赞助支持，特此感谢 VTEXS 对开源社区和开发者的支持！
+
+如果你也需要高性价比的VPS服务，欢迎通过我的专属推荐链接注册，成功注册可享受更多优惠，同时你也在支持本项目的持续发展。
+
+
+## Acknowledgements
+
+This project is proudly supported by a free VPS sponsorship from [VTEXS](https://www.vtexs.com).  
+Special thanks to VTEXS for supporting the open source community and developers!
+
+If you are looking for reliable and affordable VPS services, feel free to register via my referral link. By doing so, you will enjoy extra benefits and help support the ongoing development of this project.
