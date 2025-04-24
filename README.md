@@ -54,12 +54,11 @@ OpenAI-Chatbot/
 
 本项目由 [VTEXS](https://www.vtexs.com) 免费VPS赞助支持，特此感谢 VTEXS 对开源社区和开发者的支持！
 
-如果你也需要高性价比的VPS服务，欢迎通过[我的专属推荐链接注册]（https://console.vtexs.com/?affid=1543），成功注册可享受更多优惠，同时你也在支持本项目的持续发展。
-
+如果你也需要高性价比的VPS服务，欢迎通过[我的专属推荐链接注册](https://console.vtexs.com/?affid=1543)。成功注册可享受更多优惠，同时你也在支持本项目的持续发展。
 
 ## Acknowledgements
 
 This project is proudly supported by a free VPS sponsorship from [VTEXS](https://www.vtexs.com).  
 Special thanks to VTEXS for supporting the open source community and developers!
 
-If you are looking for reliable and affordable VPS services, feel free to register via[ my referral link]（https://console.vtexs.com/?affid=1543）. By doing so, you will enjoy extra benefits and help support the ongoing development of this project.
+If you are looking for reliable and affordable VPS services, feel free to register via [my referral link](https://console.vtexs.com/?affid=1543). By doing so, you will enjoy extra benefits and help support the ongoing development of this project.
